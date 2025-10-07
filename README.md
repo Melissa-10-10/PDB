@@ -10,3 +10,7 @@
 
 ### This is the correction
 ![image alt](https://github.com/Melissa-10-10/PDB/blob/a360984bf52af50ea4fb257de802b9aa9015da31/Screenshot%20(3).png)
+
+## DELETING THE PLUGGABLE DATABASE
+
+![IMAGE ALT](https://github.com/Melissa-10-10/PDB/blob/b552302106f7663f5db224b0805fc1dadce82ee8/Screenshot%20(4).png)
