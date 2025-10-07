@@ -17,3 +17,7 @@ It brings an error becouse i didn't change the name
 ![IMAGE ALT](https://github.com/Melissa-10-10/PDB/blob/b552302106f7663f5db224b0805fc1dadce82ee8/Screenshot%20(4).png)
 
 ![image alt](https://github.com/Melissa-10-10/PDB/blob/906ad82cfcb8c74a7bc90499d64dcc0e159ecc3a/Screenshot%20(5).png)
+
+## DROP THE DATABASE
+
+![IMAGE ALT](https://github.com/Melissa-10-10/PDB/blob/5a0fe084daae090e09924c82032e65ec6d543354/Screenshot%20(6).png)
